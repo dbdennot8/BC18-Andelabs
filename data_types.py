@@ -30,9 +30,7 @@ def data_type(data):
 	else:
 		return "Please try again"
 
-print 
-print		
-
+"""
 print data_type(True)
 print data_type("True")
 print data_type(0)
@@ -41,5 +39,4 @@ print data_type(50)
 print data_type(140)
 print data_type(100)
 
-print
-print
+"""
