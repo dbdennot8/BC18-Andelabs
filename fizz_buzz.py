@@ -12,4 +12,9 @@ def fizz_buzz(num):
 	else:
 		return num
 
-print fizz_buzz(9)
+"""
+print fizz_buzz(3)
+print fizz_buzz(33)
+print fizz_buzzz(8)
+
+"""
